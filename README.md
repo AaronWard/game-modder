@@ -8,8 +8,8 @@ Use this repo as context for an AI coding agent working on **game rewrites, reco
 ## Quick start
 
 1. Read the guide first:
-   - `markdown/AI_Game_Modding_Rewrites_Passthrough_Guidebook.md`
-   - or `pdf/AI_Game_Modding_Rewrites_Passthrough_Guidebook.pdf`
+   - [Markdown Version](https://github.com/AaronWard/game-modder/blob/main/markdown/AI_Game_Modding_Rewrites_Passthrough_Guidebook.md)
+   - [PDF Version](https://github.com/AaronWard/game-modder/blob/main/pdf/AI_Game_Modding_Rewrites_Passthrough_Guidebook.pdf)
 2. Use an **agent that can access your local files and run tools** (for example Claude Code, Codex, or another local coding agent).
 3. Give the agent this repo, or send it the repository URL.
 4. Fill in the project template below and give it to the agent.
