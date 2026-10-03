@@ -1,5 +1,8 @@
 # AI Game Modding Guidebook
 
+
+![](./markdown/images/banner-minecraft-player-in-elden-ring.png)
+
 Use this repo as context for an AI coding agent working on **game rewrites, recompilation/decompilation, or passthrough mods**.
 
 ## Quick start
