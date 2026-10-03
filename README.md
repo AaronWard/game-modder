@@ -68,6 +68,14 @@ FIRST MILESTONE
 Example: "Send player position from Game A to Game B" or "Identify and decompile the main game binary."
 ```
 
+If you are too lazy to figure out this system information, you can run this sh script:
+```
+chmod +x check_my_setup.sh
+./check_my_setup.sh > environment.md
+```
+
+
+
 ## Starter prompt
 
 ```text
